@@ -1,0 +1,54 @@
+.text-price {
+    color: #ffca40;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.text-title {
+    color: #000000;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.text-stock {
+    color: #808080;
+}
+
+.btn-custom {
+    background-color: #ffca40;
+    color: #000000;
+}
+
+.bg-custom {
+    background-color: #ffca40 !important;
+    color: #000000;
+}
+
+.btn-custom-close-modal {
+    background-color: #808080;
+    color: #000000;
+}
+
+.icon-custom {
+    color: #ffca40;
+}
+
+.sidebar.sidebar-style-2 .nav.nav-primary>.nav-item.active>a {
+    background-color: #ffca40 !important;
+    box-shadow: 4px 4px 10px 0 rgb(0 0 0 / 10%), 4px 4px 15px -5px rgb(21 114 232 / 40%);
+}
+
+.sidebar.sidebar-style-2 .nav.nav-primary>.nav-item.active>a p,
+.sidebar.sidebar-style-2 .nav.nav-primary>.nav-item.active>a i,
+.sidebar.sidebar-style-2 .nav.nav-primary>.nav-item.active>a .caret,
+.sidebar.sidebar-style-2 .nav.nav-primary>.nav-item.active>a span {
+    color: #000000 !important;
+}
+
+.logo-header {
+    background: #ffca40 !important;
+}
+
+.navbar-custom {
+    background: #ffca40 !important;
+}
