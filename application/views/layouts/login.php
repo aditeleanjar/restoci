@@ -27,13 +27,26 @@
     <!-- CSS Files -->
     <link rel="stylesheet" href="<?php echo base_url() ?>assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo base_url() ?>assets/css/atlantis.css">
+    <style>
+        .bg-secondary-gradient {
+            background: #614124 !important;
+        }
+        .btn-secondary{
+            background: #444 !important;
+            border-color: #444 !important;
+        }
+        .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:disabled{
+            background: #614124 !important;
+            border-color: #614124 !important;
+        }
+    </style>
 </head>
 
 <body class="login">
     <div class="wrapper wrapper-login wrapper-login-full p-0">
         <div class="login-aside w-50 d-flex flex-column align-items-center justify-content-center text-center bg-secondary-gradient">
-            <h1 class="title fw-bold text-white mb-3">Join Our Comunity</h1>
-            <p class="subtitle text-white op-7">Ayo bergabung dengan komunitas kami untuk masa depan yang lebih baik</p>
+            <h1 class="title fw-bold text-white mb-3">OWL COFFE</h1>
+            <!-- <p class="subtitle text-white op-7">Ayo bergabung dengan komunitas kami untuk masa depan yang lebih baik</p> -->
         </div>
         <div class="login-aside w-50 d-flex align-items-center justify-content-center bg-white">
             <div class="container container-login container-transparent animated fadeIn">
@@ -54,7 +67,7 @@
                         </div>
                     </div>
                     <div class="form-group form-action-d-flex mb-3">
-                        <a href="#" class="btn btn-secondary btn-block mt-3 mt-sm-0 fw-bold">Sign In</a>
+                        <a href="<?php echo base_url('dashboard') ?>" class="btn btn-secondary btn-block mt-3 mt-sm-0 fw-bold">Sign In</a>
                     </div>
 
                 </div>

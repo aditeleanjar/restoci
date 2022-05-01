@@ -16,7 +16,7 @@
                     <div class="col col-stats ml-3 ml-sm-0">
                         <div class="numbers">
                             <p class="card-category text-white">Pengunjung</p>
-                            <h4 class="card-title">1,294</h4>
+                            <h4 class="card-title text-white">1,294</h4>
                         </div>
                     </div>
                 </div>
@@ -36,7 +36,7 @@
                     <div class="col col-stats ml-3 ml-sm-0">
                         <div class="numbers">
                             <p class="card-category text-white">Penjualan</p>
-                            <h4 class="card-title">$ 1,345</h4>
+                            <h4 class="card-title text-white">$ 1,345</h4>
                         </div>
                     </div>
                 </div>
@@ -55,7 +55,7 @@
                     <div class="col col-stats ml-3 ml-sm-0">
                         <div class="numbers">
                             <p class="card-category text-white">Order</p>
-                            <h4 class="card-title">576</h4>
+                            <h4 class="card-title text-white">576</h4>
                         </div>
                     </div>
                 </div>

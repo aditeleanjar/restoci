@@ -1,11 +1,11 @@
 .text-price {
-    color: #ffca40;
+    color: #614124;
     font-weight: bold;
     font-size: 18px;
 }
 
 .text-title {
-    color: #000000;
+    color: #ffffff;
     font-weight: bold;
     font-size: 20px;
 }
@@ -15,26 +15,31 @@
 }
 
 .btn-custom {
-    background-color: #ffca40;
-    color: #000000;
+    background-color: #614124;
+    color: #ffffff;
+}
+
+.btn-custom:hover {
+   
+    color: #ffffff;
 }
 
 .bg-custom {
-    background-color: #ffca40 !important;
-    color: #000000;
+    background-color: #614124 !important;
+    color: #ffffff;
 }
 
 .btn-custom-close-modal {
     background-color: #808080;
-    color: #000000;
+    color: #ffffff;
 }
 
 .icon-custom {
-    color: #ffca40;
+    color: #614124;
 }
 
 .sidebar.sidebar-style-2 .nav.nav-primary>.nav-item.active>a {
-    background-color: #ffca40 !important;
+    background-color: #614124 !important;
     box-shadow: 4px 4px 10px 0 rgb(0 0 0 / 10%), 4px 4px 15px -5px rgb(21 114 232 / 40%);
 }
 
@@ -42,13 +47,22 @@
 .sidebar.sidebar-style-2 .nav.nav-primary>.nav-item.active>a i,
 .sidebar.sidebar-style-2 .nav.nav-primary>.nav-item.active>a .caret,
 .sidebar.sidebar-style-2 .nav.nav-primary>.nav-item.active>a span {
-    color: #000000 !important;
+    color: #ffffff !important;
 }
 
 .logo-header {
-    background: #ffca40 !important;
+    background: #614124 !important;
 }
 
 .navbar-custom {
-    background: #ffca40 !important;
+    background: #614124 !important;
+}
+
+.navbar .navbar-nav .nav-item .nav-link:hover, .navbar .navbar-nav .nav-item .nav-link:focus{
+    background: #614124 !important;
+}
+
+.dropdown-item:focus, .dropdown-item:hover{
+    background: #614124 !important;
+    color: #ffffff;
 }
